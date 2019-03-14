@@ -11,7 +11,7 @@
 
 <strong>源码链接：</strong><p>本网页</p>
 
-<strong>预览链接：</strong><a href="https://yuyunzhi.github.io/baymax/index.html">大白呀大白</a>
+<strong>预览链接：</strong><a href="https://lml1848687.github.io/baymax/index.html">大白呀大白</a>
 
 <h2>一、所需要的知识点</h2>
 
